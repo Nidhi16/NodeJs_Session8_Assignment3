@@ -1,0 +1,4 @@
+Hello! this is nidhi sinha
+i am going to test a node js module
+i am going to make a sample file to check whether it's contents case will change to uppercase or not.
+thank You!
